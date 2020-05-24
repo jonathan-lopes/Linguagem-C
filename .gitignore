@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.ipch
+*.db
+Ponteiros/ponteiros/.vs/ponteiros/v16/.suo
