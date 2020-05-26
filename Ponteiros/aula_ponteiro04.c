@@ -1,4 +1,4 @@
-// Manipulação de dasos com ponteiros
+// Manipulação de dados com ponteiros
 
 #include <stdio.h>
 #include <stdlib.h>
